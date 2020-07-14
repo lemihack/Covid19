@@ -4,3 +4,4 @@ I haven't taken any permission of Nepal Gov to use this api. Use it in your own 
 
 Not a public Api
 
+#Covid19
